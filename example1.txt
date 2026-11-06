@@ -1,0 +1,2 @@
+if ((1 + 2) < 3) then x : integer := 3 + 2 end.
+y : boolean := true
